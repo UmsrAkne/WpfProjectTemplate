@@ -1,11 +1,9 @@
-﻿using System.Windows;
-
-namespace WpfProjectTemplate.Views;
+﻿namespace WpfProjectTemplate.Views;
 
 /// <summary>
 /// Interaction logic for MainWindow.xaml
 /// </summary>
-public partial class MainWindow : Window
+public partial class MainWindow
 {
     public MainWindow()
     {
