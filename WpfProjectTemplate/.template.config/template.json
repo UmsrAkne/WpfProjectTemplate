@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "UmsrAkne",
+  "classifications": ["WPF"],
+  "name": "Prism Wpf project (dotnet 9)",
+  "identity": "WpfTemplate(dotnet_9)",
+  "shortName": "Wpf-project9",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "WpfProjectTemplate"
+}
